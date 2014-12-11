@@ -1,0 +1,6 @@
+C:\ASP code\FindEvenNumberApps\FindEvenNumberApps\bin\Debug\FindEvenNumberApps.exe.config
+C:\ASP code\FindEvenNumberApps\FindEvenNumberApps\obj\Debug\FindEvenNumberApps.csprojResolveAssemblyReference.cache
+C:\ASP code\FindEvenNumberApps\FindEvenNumberApps\bin\Debug\FindEvenNumberApps.exe
+C:\ASP code\FindEvenNumberApps\FindEvenNumberApps\bin\Debug\FindEvenNumberApps.pdb
+C:\ASP code\FindEvenNumberApps\FindEvenNumberApps\obj\Debug\FindEvenNumberApps.exe
+C:\ASP code\FindEvenNumberApps\FindEvenNumberApps\obj\Debug\FindEvenNumberApps.pdb

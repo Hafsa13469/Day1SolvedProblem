@@ -1,0 +1,5 @@
+C:\ASP code\PrintNumberApps\PrintNumberApps\bin\Debug\PrintNumberApps.exe.config
+C:\ASP code\PrintNumberApps\PrintNumberApps\bin\Debug\PrintNumberApps.exe
+C:\ASP code\PrintNumberApps\PrintNumberApps\bin\Debug\PrintNumberApps.pdb
+C:\ASP code\PrintNumberApps\PrintNumberApps\obj\Debug\PrintNumberApps.exe
+C:\ASP code\PrintNumberApps\PrintNumberApps\obj\Debug\PrintNumberApps.pdb

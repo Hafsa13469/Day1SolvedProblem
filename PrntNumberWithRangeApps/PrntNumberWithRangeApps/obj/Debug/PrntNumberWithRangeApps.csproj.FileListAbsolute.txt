@@ -1,0 +1,6 @@
+C:\ASP code\PrntNumberWithRangeApps\PrntNumberWithRangeApps\bin\Debug\PrntNumberWithRangeApps.exe.config
+C:\ASP code\PrntNumberWithRangeApps\PrntNumberWithRangeApps\bin\Debug\PrntNumberWithRangeApps.exe
+C:\ASP code\PrntNumberWithRangeApps\PrntNumberWithRangeApps\bin\Debug\PrntNumberWithRangeApps.pdb
+C:\ASP code\PrntNumberWithRangeApps\PrntNumberWithRangeApps\obj\Debug\PrntNumberWithRangeApps.csprojResolveAssemblyReference.cache
+C:\ASP code\PrntNumberWithRangeApps\PrntNumberWithRangeApps\obj\Debug\PrntNumberWithRangeApps.exe
+C:\ASP code\PrntNumberWithRangeApps\PrntNumberWithRangeApps\obj\Debug\PrntNumberWithRangeApps.pdb

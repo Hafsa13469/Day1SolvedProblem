@@ -1,0 +1,5 @@
+C:\ASP code\StringInputApp\StringInputApp\bin\Debug\StringInputApp.exe.config
+C:\ASP code\StringInputApp\StringInputApp\bin\Debug\StringInputApp.exe
+C:\ASP code\StringInputApp\StringInputApp\bin\Debug\StringInputApp.pdb
+C:\ASP code\StringInputApp\StringInputApp\obj\Debug\StringInputApp.exe
+C:\ASP code\StringInputApp\StringInputApp\obj\Debug\StringInputApp.pdb

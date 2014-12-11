@@ -1,0 +1,6 @@
+C:\Day1 QustionSet\HelloWorldApps\HelloWorldApps\bin\Debug\HelloWorldApps.exe.config
+C:\Day1 QustionSet\HelloWorldApps\HelloWorldApps\bin\Debug\HelloWorldApps.exe
+C:\Day1 QustionSet\HelloWorldApps\HelloWorldApps\bin\Debug\HelloWorldApps.pdb
+C:\Day1 QustionSet\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.csprojResolveAssemblyReference.cache
+C:\Day1 QustionSet\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.exe
+C:\Day1 QustionSet\HelloWorldApps\HelloWorldApps\obj\Debug\HelloWorldApps.pdb
